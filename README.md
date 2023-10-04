@@ -1,11 +1,11 @@
-# RAGGStack
-RAGG - Retrieval Augmented Generation over Graph
+# GRAGStack
+GRAG - Graph Retrieval Augmented Generation
 
-**RAGGStack: The Framework to Unleash the Power of Knowledge with Large Language Models**
+**GRAGStack: The Framework to Unleash the Power of Knowledge with Large Language Models**
 
-🚀 **Introducing RAGGStack** 🚀
+🚀 **Introducing GRAGStack** 🚀
 
-Experience an unparalleled leap in open-source intelligence platforms: RAGGStack! Seamlessly integrating Retrieval Augmented Generation over a Graph of Knowledge, this platform now boasts integration with Large Language Models (LLMs), transforming your interaction with vast expanses of data into meaningful dialogues, without the need of writing ANY code!
+Experience an unparalleled leap in open-source intelligence platforms: GRAGStack! Seamlessly integrating Retrieval Augmented Generation over a Graph of Knowledge, this platform now boasts integration with Large Language Models (LLMs), transforming your interaction with vast expanses of data into meaningful dialogues, without the need of writing ANY code!
 
 🌌 **Features**:
 
@@ -15,13 +15,13 @@ Experience an unparalleled leap in open-source intelligence platforms: RAGGStack
 - **Swift and Contextual Insights**: Benefit from AI-driven data retrieval that doesn't just fetch information but contextualizes it, offering clarity amidst information chaos.
 - **Generative Augmentation**: Beyond retrieval, watch as AI crafts, innovates, and augments data, presenting fresh perspectives and solutions derived from extensive data realms.
 - **Open architecture**: The Stack provides ready-to-use integration and easy extension for any LLMs of your choice, either via API or locally-hosted finetuned LLMs.
-- **Community-Powered Evolution**: RAGGStack thrives on community. Being open-sourced means you're not just using a tool; you're part of a dynamic, evolving ecosystem.
+- **Community-Powered Evolution**: GRAGStack thrives on community. Being open-sourced means you're not just using a tool; you're part of a dynamic, evolving ecosystem.
 
 🛠️ **Inclusive Development**:
-RAGGStack's spirit lies in community-driven innovation. Whether you're improving the core, refining the LLM integrations, or just suggesting tweaks, your voice shapes RAGGStack's destiny.
+GRAGStack's spirit lies in community-driven innovation. Whether you're improving the core, refining the LLM integrations, or just suggesting tweaks, your voice shapes GRAGStack's destiny.
 
 💼 **Use Cases**:
-RAGGStack's purpose is to simplify the integration and deployment of LLM powered application over knowledge graph, to remove the general challenges of LLMs in terms of  hallucination, bias, data currency and explanabilty.
+GRAGStack's purpose is to simplify the integration and deployment of LLM powered application over knowledge graph, to remove the general challenges of LLMs in terms of  hallucination, bias, data currency and explanabilty.
 
 Potential use cases are: 
 - augmented search
@@ -33,4 +33,4 @@ Potential use cases are:
 
 ---
 
-Please star RAGGStack. More udpates are to come, and you're invited to contribute too! 🌐📚🤖🚀
+Please star GRAGStack. More udpates are to come, and you're invited to contribute too! 🌐📚🤖🚀
